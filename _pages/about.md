@@ -21,7 +21,7 @@ redirect_from:
 # 😊 About Me
 I’m a PhD student at [The Chinese University of Hong Kong](https://www.cuhk.edu.hk/chinese/index.html), supervised by Professor [Jiaya JIA](https://jiaya.me/home) and Professor [Bei YU](https://www.cse.cuhk.edu.hk/~byu/). Before that, I obtained my master degree at [AIM3 Lab](https://www.ruc-aim3.com/), [Renmin University of China](https://www.ruc.edu.cn/), under the supervision of Professor [Qin JIN](http://jin-qin.com/). I received my Bachelor’s degree in 2021 from [South China University of Technology](https://www.scut.edu.cn/new/). 
 
-My research interest includes Multi-modal Large Language Models, especially in post-training. Especially the post-training of vlm, vlm reasoning, reinforcement learning, and vision-language navigation. Here is my <a href='https://scholar.google.com/citations?user=X-OlO2gAAAAJ&hl=en'>google scholar page</a>. 
+My research interest includes Multi-modal Large Language Models, especially in post-training. Here is my <a href='https://scholar.google.com/citations?user=X-OlO2gAAAAJ&hl=en'>google scholar page</a>. 
 
 
 
