@@ -21,11 +21,47 @@ redirect_from:
 # 😊 About Me
 I’m a PhD student at [The Chinese University of Hong Kong](https://www.cuhk.edu.hk/chinese/index.html), supervised by Professor [Jiaya JIA](https://jiaya.me/home) and Professor [Bei YU](https://www.cse.cuhk.edu.hk/~byu/). Before that, I obtained my master degree at [AIM3 Lab](https://www.ruc-aim3.com/), [Renmin University of China](https://www.ruc.edu.cn/), under the supervision of Professor [Qin JIN](http://jin-qin.com/). I received my Bachelor’s degree in 2021 from [South China University of Technology](https://www.scut.edu.cn/new/). 
 
-My research interest includes Multi-modal Large Language Models, especially in post-training. Here is my <a href='https://scholar.google.com/citations?user=X-OlO2gAAAAJ&hl=en'>google scholar page</a>. 
+My research interest includes Multi-modal Large Language Models, Post-Training and Embody Agents. Here is my <a href='https://scholar.google.com/citations?user=X-OlO2gAAAAJ&hl=en'>google scholar page</a>. 
 
 
 
-# 📝 Main Contributions
+# 📝 Core Contributions
+
+
+<!-- ------------------------------------------------------------- -->
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv preprint</div><img src='images/CARRYON.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[CarryOn: A Dual-Loop Harness for Personalized and
+Reliable Robot Assistance](https://arxiv.org/pdf/2610.21453)
+
+Zixuan Wang, **Yuqi Liu**, Yuxin Chen, Sengqiao Yang, Jinhui Ye, Pengguang Chen, Changsheng Lu, Shu Liu, Bei Yu, Jiaya Jia
+
+[**Project Page**](https://vincent2311.github.io/Projects/CarryOn/) 
+- We present a dual-loop harness, called CarryOn, with the features of personalization and reliable execution. 
+- The planning loop of the harness connects persistent user and scene contexts with observationdriven revision, supporting personalized task decisions across interactions, scenes, and query modalities.
+- The execution loop combines proactive geometric shielding with reusable and iteratively refined recovery skills.
+
+</div>
+</div> 
+
+<!-- ------------------------------------------------------------- -->
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv preprint</div><img src='images/GAMEARENA.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[OmniGameArena: A Unified UE5 Benchmark for VLM Game Agents with Improvement Dynamics](https://arxiv.org/pdf/2606.09826)
+
+Mingxian Lin, Shengju Qian, **Yuqi Liu**, Yi-Hua Huang, Yiyu Wang, Wei Huang, Yitang Li, Fan Zhang, Zeyu Hu, Lingting Zhu, Xin Wang, Xiaojuan Qi 
+
+- OmniGameArena, a twelve-game UE5 benchmark spanning Solo, PvP, and Coop with unified action interfaces and game instances built
+specifically for this benchmark.
+- Propose the IDC harness, an agentic-reflection framework whose autonomous tool-use reflector refines a bounded skill
+prompt across R rounds, with persistent memory
+and best-skill rollback.
+
+</div>
+</div> 
+
 
 <!-- ------------------------------------------------------------- -->
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML 2026</div><img src='images/VISURF.png' alt="sym" width="100%"></div></div>
@@ -45,7 +81,7 @@ My research interest includes Multi-modal Large Language Models, especially in p
 
 [VisionReasoner: Unified Visual Perception and Reasoning via Reinforcement Learning](https://arxiv.org/pdf/2505.12081)
 
-**Yuqi Liu**<sup>*</sup> , Tianyuan Qu<sup>*</sup> , Zhisheng Zhong, Bohao Peng, Shu Liu, Bei Yu, Jiaya Jia  
+**Yuqi Liu** , Tianyuan Qu , Zhisheng Zhong, Bohao Peng, Shu Liu, Bei Yu, Jiaya Jia  
 
 [**Project Page**![[code]](https://img.shields.io/github/stars/dvlab-research/VisionReasoner)](https://github.com/dvlab-research/VisionReasoner)   
 <!-- [**Project Page**](https://github.com/dvlab-research/VisionReasoner)  -->
